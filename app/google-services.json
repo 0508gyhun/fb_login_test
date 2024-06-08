@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228865936051",
+    "project_id": "fb-login-test-f798a",
+    "storage_bucket": "fb-login-test-f798a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228865936051:android:d115740eabc570bfb63ec6",
+        "android_client_info": {
+          "package_name": "com.example.fb_login_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSAexlsRBCgDLrDduMQMD-tdJfOyFjAnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
